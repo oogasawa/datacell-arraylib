@@ -1,0 +1,5 @@
+
+export {
+    isSubset
+} from "./arrayutil";
+
